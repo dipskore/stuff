@@ -1,0 +1,44 @@
+contacts [verify with pgp: https://raw.githubusercontent.com/dipskore/stuff/main/public_key.txt]
+
+# E-Mails #
+thefray@secmail.pro
+catchyname12345@gmail.com
+
+# Other #
+Ramble (TOR): alltimelow [ramble.pw or http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/]
+GitHub: dipskore [http://github.com]
+
+
+*Contacts get updated every now and then! P.S: Make sure to verify these w/ PGP key above! (msg is below this)*
+
+-----BEGIN PGP MESSAGE-----
+
+hQGMA7WM0aGP5wztAQv/UmaZ+z73he+ESpfvyiNtXm0tYj4W7t/x3GMH38pHDlqX
+arxuIfuERhI4+Uzzzv7wdFF5PpM/5CKPGYYwyreSX9+rGDFldBVDo/Lv0DSyl+XW
+Sgok6nj0bQ81mi6se1RuhGxAW/H3T605zCj1yJqaCSoKWqgNtrT9Tsm8+QBB34w2
+E6Jcq0DI4AIfX8eNMz1dtOlirxZgXnWrBsoJMyfZJesqt8BLXeTQ71oUuhMRV/Nu
+GOOmj16JenmUv/KS5VutBVGjoPxbmBsV26Sy0m99ofDIXh8fQapIHOJY5xJVyE0d
+tlJoM547A7PNqD+p+duP38GGRBN1oMPevbnpbjQqN5tVKmV1zti0NqHhfBTbuNW3
+8mQ1mw3IlwMBmRD4OX+ZC8VKqz5knCEYCA20wkdLxOjUq+GFEgs0sWIf/3QSzApy
+YFCQmqbCyt6eahoNXs0OtRBauT32fD0G3ZyRW6k4AyPk4Bfr+XGSW3KarS76Gj+D
+U+mPLExyBYlCQo2it0mS0ukBHbdSPzJioWFDJZH7uz6QKmrswydeagnitA3kpP5H
+yNS30ID04xVnBBS/H2qWGopMZL7vmWTeLum3okqu+9lKjW/pbTTcAj3KaYxcEHa5
+O6ycSXF8hg6lTh0nUCvFPhCFPJESZ3iO6V5DN/IqnEG2+nPDpA/L95cXQDrD2nGz
+1UsCf2Jgf9lyU0lyEBe1w9wdlXLxbIGg8oZgA2sMXZRglglt8AQzkkgNzsIcYGeE
+SO9wUpj2nZZvPMlBVI0J6I2e6dVIHmURXX3LhPAjZ4+cuL/arR25v6t0nvTo6uDz
+NIUxmxYhpgYXBon7D0rnK9VXlolHNgJBzVYfK6K2jGBQHvotFnlqShkBXGATIFlC
+AOZlWIJQtONS3J51p57QYaqQBDz0rzedoPpqixH0zRllhK1YgQspSgfxW9JJNnqn
+yh4c/iBT+Ahu0mfL5ZdbxewZhKIK3tzGx+4DeXlmcwRPxql4c+OHNtnMahuoZEUj
+D5E6jIHrFocTOx7AZDaPvJHGXmgH4nLqE1ycXoIT1eUXFmlSlxUHy8Ca43zyCWS1
+Kc+N0ZMTF3cDr6BDKqELTPCaQnSdwegyOsvyL0dbMefEINfZQiXH39Imu+lfrWtf
+zKEo1u1DsnuJsVxv5v4ufnV4xNhD2rxHJnPwWVrwmaWRCqC62Hq5NZBzlSCJ37Eb
+SMCtO4i/fsjs7H9BAS4BFcUyv78Rxb0B7bQ1esXFUrrBIbBZSSsmOtC5mtNTH0rO
+lpF0W1OtupXf+c1YwYjplg+CU73UwsLJDf5WRKLS8b2Ro9WEEORWA6x85e1WD+Q7
+4SsKjnEGacqydhFwyASCjL24t+MOz0N+rj1sgEC5h4XGx8NhCNOzZ6URR4XGMd4u
+P6tQQ2oyozAI7tsji4q7jQ+ZkYIVvmDiF/XTb3rsv1DMuH2NEEj1ctSOKpn73cxk
+5XGLAKaKl2uzsUMFtUzJE/TltmqZvxiol6cRCXrxoxPJIXhGUA3RU/P6Dbkw3AWG
+9S21Yp3h2ySMztvBWlm6q8m7H7/8PJhmGqI2ZhluX7oQSij+hHquVkgrm+Ne5FGJ
+bpqd1AvBsdtZsb4jri7YtfyywWFsKr28/IXc01UHxWaOfPjnJJML1Jcc5Bwy+505
+4c7e2tk7yuTX5Nw8mIZkAk+jCggcLPYDnB0SVmo2Beo=
+=er9F
+-----END PGP MESSAGE-----
